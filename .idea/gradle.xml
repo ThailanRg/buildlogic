@@ -27,7 +27,6 @@
             <option value="$PROJECT_DIR$/build-logic/convention" />
             <option value="$PROJECT_DIR$/featureA" />
             <option value="$PROJECT_DIR$/featureB" />
-            <option value="$PROJECT_DIR$/featureC" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
