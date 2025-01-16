@@ -42,6 +42,6 @@ material = { group = "com.google.android.material", name = "material", version.r
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
-buildlogic-android-compose-feature = { id = "buildlogic.android.feature.compose", version = "unspecified"  }
+buildlogic-android-compose-feature = { id = "buildlogic.android.compose.feature", version = "unspecified"  }
 android-library = { id = "com.android.library", version.ref = "agp" }
 

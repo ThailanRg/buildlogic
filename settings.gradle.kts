@@ -24,4 +24,3 @@ rootProject.name = "BuildLogic"
 include(":app")
 include(":featureA")
 include(":featureB")
-include(":featureC")
